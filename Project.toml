@@ -1,6 +1,6 @@
 name = "GAP_pkg_zeromqinterface_jll"
 uuid = "abf7faeb-cafb-5034-8851-d0d251ebcfa3"
-version = "0.170000.0+0"
+version = "1.170000.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
