@@ -1,0 +1,16 @@
+name = "GAP_pkg_zeromqinterface_jll"
+uuid = "abf7faeb-cafb-5034-8851-d0d251ebcfa3"
+version = "1.170000.0+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+GAP_jll = "5cd7a574-2c56-5be2-91dc-c8bc375b9ddf"
+ZeroMQ_jll = "8f1865be-045e-5c20-9c9f-bfbfb0764568"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.7.0"
+julia = "1.10"
+Libdl = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"
